@@ -2,8 +2,12 @@
 
 ## Name: Panagiotis Siolos
 
+## Age : 19 
+
+## Country : Greece
+
 ## Email: p17siol@ionio.gr
 
-## Student Ionio Panapestimio
+## Student at Ionio Panapestimio
 
-##
+## 
